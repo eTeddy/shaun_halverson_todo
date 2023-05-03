@@ -50,7 +50,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <header><h2>To Do List</h></header>
+      <header><h2>To Do List</h2></header>
       
       <main>
 
